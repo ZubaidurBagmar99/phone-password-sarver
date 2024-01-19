@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/MGbS2nJ/Rectangle-13.png",
+      "product_name": "Product 1",
+      "product_variation": "Variation 1",
+      "customers_reviews": "Great product! 5" ,
+      "product_description": "Description for Product 1"
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/qCBL50h/Rectangle-10.png",
+      "product_name": "Product 2",
+      "product_variation": "Variation 2",
+      "customers_reviews":  "Excellent! 5",
+      "product_description": "Description for Product 2"
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/MGbS2nJ/Rectangle-13.png",
+      "product_name": "Product 3",
+      "product_variation": "Variation 3",
+      "customers_reviews":"Good value for money. 4",
+      "product_description": "Description for Product 3"
+    }
+  ]
+  
